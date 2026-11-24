@@ -1,6 +1,6 @@
 """Browser tests for the shortlist page and its places.json.
 
-The kiosk (blackdiamondlodge/bdh-app-restaurants) puts the shortlist in the URL
+The kiosk (blackdiamondhub/bdh-app-restaurants) puts the shortlist in the URL
 hash; phone cameras may percent-encode parts of it before opening the page.
 
     pip install selenium && python -m unittest discover tests
